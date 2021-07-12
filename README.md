@@ -4,7 +4,7 @@
 
 ## Author
 
-> By **[mugendinjue](https://github.com/mugendinjue)**
+> By **[cheruiyot Dennis](https://github.com/cheruden)**
 
 ## Description
 
@@ -29,22 +29,22 @@ As a user of the application you will be able to:
 ### Prerequisites
 
 > + clone the repository to your local directory
-> * ```git clone https://github.com/mugendinjue/instagram```
+> * ```git clone https://github.com/cheruden/instagram-app```
 > + open the directory to the project
-> * ```cd instagram```
+> * ```cd instagram-app```
 
 #### To install a virtual environment
 
-> * ```python3.6 -m venv virtual``` 
+> * ```python3.8 -m venv virtual``` 
 > * ```source virtual/bin/activate```
 
 #### To install all dependencies
 
-> * ```python3.6 -m pip install -r requirements.txt```
+> * ```python3.8 -m pip install -r requirements.txt```
 
 #### To run the project
 
-> * Run ```python3.6 manage.py runserver``` and then on your preffered broswser search the url ```http://127.0.0.1:8000/``` 
+> * Run ```python3.8 manage.py runserver``` and then on your preffered broswser search the url ```http://127.0.0.1:8000/``` 
 
 #### To deploy the project to heroku
 
@@ -52,26 +52,27 @@ As a user of the application you will be able to:
 
 ### Technologies Used
 
-> * Python3.6.8
-> * Django framework (version 2.2.6)
+> * Python3.8
+> * Django framework (version 3.2.4)
 > * Bootstrap4
+> * Bootstrap3
 > * PostgreSQL
 
 ## Known Bugs
 
-> It does not have bugs.But if any problems should occur, email me at mugendinjue7.com
+> It does not have bugs.But if any problems should occur, email me at cheruden25@gmail.com
 
 > * N/B More features will be added in future
 
 ## Support and Contact Details
 
-> You can reach out to me at mugendinjue7@gmail.com
+> You can reach out to me at cheruden@gmail.com
 
 ## Licence
 
 > **[MIT License](LICENSE)**
 
-> Copyright (c) 2018 **mugendinjue**
+> Copyright (c) 2021 **Cheruiyot Dennis**
 
 
 
