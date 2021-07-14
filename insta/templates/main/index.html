@@ -106,7 +106,7 @@
                 <form action="{% url 'commenting' image_id=image.id %}" method="post">
                   {% csrf_token %}
                     <fieldset class="form-group">
-                    {% bootstrap_form form layout='inline' %}
+            
                     </fieldset>
                 </form>             
             </div>
